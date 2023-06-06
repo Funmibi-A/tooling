@@ -11,7 +11,7 @@ This is a Dockerfile to build a debian based container image running nginx and p
 - updated readme file
 - made changes again
 - more changes
-- testing stuff out
+
 
 
 ## How to use this repository
