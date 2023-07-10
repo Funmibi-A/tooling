@@ -8,7 +8,7 @@ This is a Dockerfile to build a debian based container image running nginx and p
 |-----|-------|-----|--------|--------|
 | latest | master Branch |1.17.2 | 7.3.8 | buster |
 
-- updated readme file
+- updated readme today 7/10/23
 
 ## How to use this repository
 The build is automatically triggered by a git push to your feature/[branch]
