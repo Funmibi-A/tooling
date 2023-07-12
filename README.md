@@ -7,6 +7,7 @@ new line
 Another line
 testing
 heheheh
+testing
 
 ### Versioning
 | Docker Tag | GitHub Release | Nginx Version | PHP Version | Debian Version |
